@@ -5,3 +5,4 @@ x = np.linspace(0,10,100)
 y = np.sin(x)
 
 print(x)
+print(y)
