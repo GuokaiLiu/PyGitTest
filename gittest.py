@@ -6,3 +6,4 @@ y = np.sin(x)
 
 print(x)
 print(y)
+print(x+y)
